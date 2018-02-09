@@ -1,0 +1,2 @@
+webpackJsonp([0xb79b00be208b],{984:function(e,t){e.exports={data:{markdownRemark:{html:"<p>Who doesn't have a few skeletons in their closet?</p>",timeToRead:1,excerpt:"Who doesn't have a few skeletons in their closet?",frontmatter:{title:"",cover:null,date:null,category:null,tags:null},fields:{slug:"/about/deeper/secrets/"}}},pathContext:{slug:"/about/deeper/secrets/"}}}});
+//# sourceMappingURL=path---about-deeper-secrets-9ec88efc9969c481cac7.js.map

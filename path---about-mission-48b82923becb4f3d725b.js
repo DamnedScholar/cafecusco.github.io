@@ -1,0 +1,2 @@
+webpackJsonp([0x8ba542dc7419],{985:function(e,t){e.exports={data:{markdownRemark:{html:"<p>We've got a mission. We just need to find where we put it down.</p>",timeToRead:1,excerpt:"We've got a mission. We just need to find where we put it down.",frontmatter:{title:"",cover:null,date:null,category:null,tags:null},fields:{slug:"/about/mission/"}}},pathContext:{slug:"/about/mission/"}}}});
+//# sourceMappingURL=path---about-mission-48b82923becb4f3d725b.js.map

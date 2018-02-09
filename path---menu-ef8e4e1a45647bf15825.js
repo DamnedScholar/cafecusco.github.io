@@ -1,0 +1,2 @@
+webpackJsonp([21111123612422],{999:function(t,a){t.exports={data:{menuYaml:{id:"D:/github/cusco/gatsby-adv/content/pages/menu/restaurantmenu.yml absPath of file >>> YAML",internal:{type:"MenuYaml"},parent:{__typename:"File",id:"D:/github/cusco/gatsby-adv/content/pages/menu/restaurantmenu.yml absPath of file"}}},pathContext:{}}}});
+//# sourceMappingURL=path---menu-ef8e4e1a45647bf15825.js.map
